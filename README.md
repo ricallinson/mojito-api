@@ -24,6 +24,10 @@ In the same directory run the start command;
 
 Open [http://localhost:8666/@simple/index](http://localhost:8666/@simple/index) in a browser.
 
+# Binders
+
+* Y.View from [mojito-client-lite](https://github.com/ricallinson/mojito-client-lite/tree/master/bundle)
+
 # Standard Addons
 
 * [ac.params](#acparams)
